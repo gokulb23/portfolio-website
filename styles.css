@@ -1,0 +1,39 @@
+html {
+    background-image:linear-gradient( rgb(0, 0, 117),rgb(46, 0, 46));
+    background-attachment: fixed;
+}
+
+.flex {
+    display: flex;
+}
+
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Alliance No.1', sans-serif;
+    color: white;
+}
+
+.sideBySide {
+    display: inline-block;
+}
+
+#gokshWorking {
+    padding-top: 0%;
+    margin-left: 5%;
+}
+
+a {
+    color: white;
+}
+
+a:visited { 
+    text-decoration: none; 
+    color: white; 
+}
+
+figcaption {
+    padding: 0%;
+    margin-left: 5%;
+    font-size: 70%;
+}
